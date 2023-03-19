@@ -4,7 +4,7 @@
 /**
 * main - to print numberis postive
 *to print number is zero
-*to print number is negative
+*to print number is negative*
 */
 int main(void)
 {
