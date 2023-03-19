@@ -5,9 +5,9 @@
 * main - to print numberis postive
 *to print number is zero
 *to print number is negative*
-* return : 0
+* return: 0
 */
-int main (void)
+int main(void)
 {
 int n;
 srand(time(0));
