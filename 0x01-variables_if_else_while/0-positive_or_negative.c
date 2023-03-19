@@ -5,6 +5,7 @@
 * main - to print numberis postive
 *to print number is zero
 *to print number is negative*
+*return : 0
 */
 int main(void)
 {
