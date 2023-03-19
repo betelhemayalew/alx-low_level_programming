@@ -4,7 +4,7 @@
 /**
 * main - to print numberis postive
 *to print number is zero
-*to print number is negative*
+*to print number is negative
 * return: 0
 */
 
@@ -27,4 +27,3 @@ printf("%d is zero\n", n);
 }
 return (0);
 }
-
