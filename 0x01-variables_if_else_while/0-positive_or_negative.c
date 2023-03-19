@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*to print numberis postive
+*main - to print numberis postive
 *to print number is zero
 *to print number is negative
 */
@@ -25,5 +25,3 @@ printf("%d is zero\n", n);
 }
 return (0);
 }
-
-
