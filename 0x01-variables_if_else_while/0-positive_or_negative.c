@@ -15,7 +15,7 @@ if (n>0)
 {
 printf("%d is positive\n",n);
 }
-ifelse 
+else if
 {
 printf("%d is zero\n",n);
 }
