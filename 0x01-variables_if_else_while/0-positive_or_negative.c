@@ -7,8 +7,7 @@
 *to print number is negative
 * return: 0
 */
-
-int main(void)
+intmain(void)
 {
 int n;
 srand(time(0));
