@@ -1,10 +1,12 @@
-#include <stdio.h>
+#include <main.h>
 /**
  *main: print for the
  *return : 0
  */
-int main
+int main (void)
 {
-  printf(_putchar)
-    return: 0
-    }
+_putchar("_putchar")
+return: 0
+}
+
+
