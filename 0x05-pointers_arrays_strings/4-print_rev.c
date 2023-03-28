@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_rev - This function prints a reverse string
@@ -17,3 +17,4 @@ void print_rev(char *s)
 	}
 	_putchar('\n');
 }
+
