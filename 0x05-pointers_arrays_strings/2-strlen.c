@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main _strlen(char *s) - check the code
+ *_strlen - check the code
  *
  * Return: Always 0.
  */
@@ -13,6 +13,6 @@ int main(void)
 
     str = "My first strlen!";
     len = _strlen(str);
-   int _strlen(char *s);("%d\n", len);
+   int _strlen(char *s); ("%d\n", len);
     return (0);
 }
