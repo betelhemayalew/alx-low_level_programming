@@ -20,11 +20,17 @@ char *_strcat(char *dest, char *src) {
     *ptr = '\0';
     return dest;
 }
+char *_strcat(void)
+{
+    char s1[98] = "Hello ";
+    char s2[] = "World!\n";
+    char *ptr;
 
-int main() {
-    char str1[98] = "Hello";
-    char str2[] = "world!";
-    _strcat(str1, str2);
-    printf("%s\n", str1);
-    return 0;
+    printf("%s\n", s1);
+    printf("%s", s2);
+    ptr = _strcat(s1, s2);
+    printf("%s", s1);
+    printf("%s", s2);
+    printf("%s", ptr);
+    return (0);
 }
