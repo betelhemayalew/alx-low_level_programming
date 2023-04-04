@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _memcpy - copy memory area
- * @dest: char array to copy into
- * @src: char array to copy from
+ * _memcpy - copy memory area from
+ * @dest: char array to copy into to copy
+ * @src: char array to copy from true for rut
  * @n: number of elements to copy
  * Return: pointer to `dest`
  */
